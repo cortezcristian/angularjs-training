@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "AngularJS",
+    "packageVersion": "0.0.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "cortezcristian",
+    "githubRepository": "angularjs-training"
+  }
+}
