@@ -21,7 +21,9 @@
         "bower.html",
         "grunt.html",
         "yeoman.html",
-        "yeoman-stack.html"
+        "yeoman-stack.html",
+        "bootstrap.html",
+        "fontawesome.html"
     ],
     [
         "quality.html",
@@ -38,6 +40,5 @@
         "ionic-framework.html",
         "demo-android-app.html"
     ],
-    "final.html",
-    "bootstrap.html"
+    "final.html"
 ]
