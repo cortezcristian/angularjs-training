@@ -38,5 +38,6 @@
         "ionic-framework.html",
         "demo-android-app.html"
     ],
-    "final.html"
+    "final.html",
+    "bootstrap.html"
 ]
