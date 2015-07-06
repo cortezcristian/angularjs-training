@@ -33,6 +33,22 @@
         "quality-ends.html"
     ],
     [
+        "git.html",
+        "git-benefits.html",
+        "git-learn.html",
+        "git-cheat-sheets.html",
+        "git-install-1.html",
+        "git-install-2.html",
+        "git-commands-1.html",
+        "git-commands-2.html",
+        "git-commands-3.html",
+        "git-commands-4.html",
+        "git-commands-5.html",
+        "git-tools.html",
+        "git-flow.html",
+        "git-basic-cmds.html"
+    ],
+    [
         "angular-demos.html",
         "demo-web-app.html",
         "demo-web-app-images.html",
