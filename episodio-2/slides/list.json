@@ -3,58 +3,21 @@
     "topics.html",
     [
         "angular.html",
-        "javascript-mvstar-frameworks.html",
-        "mvc-frameworks.html"
+        "ejercicios-1.html",
+        "ejercicios-2.html",
+        "ejercicios-3.html",
+        "angular-cheatsheets.html"
     ],
     [
-        "learn-angular.html",
-        "feature1.html",
-        "feature2.html",
-        "feature3.html",
-        "feature4.html",
-        "feature5.html",
-        "present-past-future.html",
-        "angular-2.html"
-    ],
-    [
-        "front-end-technologies.html",
-        "bower.html",
-        "grunt.html",
-        "yeoman.html",
-        "yeoman-stack.html",
-        "bootstrap.html",
-        "fontawesome.html"
-    ],
-    [
-        "quality.html",
-        "jasmine.html",
-        "karma.html",
-        "docular.html",
-        "quality-ends.html"
-    ],
-    [
-        "git.html",
-        "git-benefits.html",
-        "git-learn.html",
-        "git-cheat-sheets.html",
-        "git-install-1.html",
-        "git-install-2.html",
-        "git-commands-1.html",
-        "git-commands-2.html",
-        "git-commands-3.html",
-        "git-commands-4.html",
-        "git-commands-5.html",
-        "git-tools.html",
-        "git-flow.html",
-        "git-basic-cmds.html"
-    ],
-    [
-        "angular-demos.html",
-        "demo-web-app.html",
-        "demo-web-app-images.html",
-        "demo-chrome-app.html",
-        "ionic-framework.html",
-        "demo-android-app.html"
+        "entrevistas-1.html",
+        "entrevistas-2.html",
+        "joke-html.html",
+        "entrevistas-3.html",
+        "joke-css.html",
+        "entrevistas-4.html",
+        "entrevistas-5.html",
+        "entrevistas-6.html",
+        "entrevistas-7.html"
     ],
     "final.html"
 ]
